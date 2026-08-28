@@ -16,12 +16,11 @@ The goal of this project was to create a submarine that would submerge a few fee
 - <b>3 SE0599 Underwater Ultrasonic Sensors from DFRobotics</b>
 - <b>30 Amp 48V Power distribution module</b>
 
-- <b></b>
-
-
+<img width="600" height="359" alt="explode1" src="https://github.com/user-attachments/assets/5661fde3-3997-45da-b426-d1e5015f77f3" />
+<h2>Challenges and Solutions</h2>
 I had originally planned to use all 3 sensors on the front, but then I realized my original plan to control depth wouldn't work. So I converted one of 
 
 
 
-<img width="600" height="359" alt="explode1" src="https://github.com/user-attachments/assets/5661fde3-3997-45da-b426-d1e5015f77f3" />
+
 
