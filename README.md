@@ -19,8 +19,10 @@ The goal of this project was to create a submarine that would submerge a few fee
 
 <h2>Challenges and Solutions</h2>
 One of the biggest challenges in this project was the design of the back endcap that houses the motors and the coupling for the magnetic drive. My first iteration had the magnets touching the wall of the 3D print. This caused a lot of power loss, and after only a few short tests, there was a noticeably groove being worn into the print. Obviously, if it eventually wore a hole in the wall underwater that would be very bad. So to fix this, I changed the design of the coupling to include a ceramic bearing with a ≈1mm spacer on the outside. I also narrowed the diameter of the tube inside of the endcap so the motor would sit ≈1mm away from the inside wall. This would work temporarily, but since the inside motor assembly pieces were mostly friction held, the magnets were so strong that they would eventually pull themselves to the wall. I tried to make the friction hold of the magnet holder on the motor shaft stronger with tape, but eventually last-resorted to super-glueing it to the motor shaft. Then the magnets started pulling the motor out of its holder. I tried lots of tape, but I did not want to superglue the motor to its holder. So I decided to print a 1mm spacer to slightly increase the distance between the magnets, and therefore slightly weaken their connection. This solved the problem, and the cost of slightly decreased max torque was not an issue in the water. 
+<p align="center">
+  Here is a demonstration of the final assembly:
+<img width="600" height="359" alt="explode1" src="https://github.com/user-attachments/assets/14c8bd97-386f-46fd-b1bc-e9a25371622d" />
 
-<img width="600" height="359" alt="explode1" src="https://github.com/user-attachments/assets/5661fde3-3997-45da-b426-d1e5015f77f3" />
 
 
 
