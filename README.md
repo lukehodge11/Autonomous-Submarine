@@ -28,6 +28,14 @@ demonstrating some of the different stages.
 <p align="center">
   Here is a demonstration of the final assembly:<br/>
 <img width="600" height="359" alt="explode1" src="https://github.com/user-attachments/assets/14c8bd97-386f-46fd-b1bc-e9a25371622d" />
+<br><br><br>
+Full View: <br>
+<img width="600" height="500" alt="submarine" src="https://github.com/user-attachments/assets/15f44d7b-8ef2-46a9-b381-0e48427d5932" /><br><br>
+Inside View: <br>
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/54bcf1df-7f57-447c-b5c7-60efec9d2c66" /><br><br>
+Linear Actuator: <br>
+<img width="600" height="450" alt="sub actuator" src="https://github.com/user-attachments/assets/1a67ac35-8884-4bf0-a1a4-58041187eadb" /><br><br>
+
 
 
 
