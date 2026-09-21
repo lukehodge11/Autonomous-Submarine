@@ -1,4 +1,4 @@
-# Autonomous-Submarine
+# Autonomous Submarine
 
 ### [YouTube Demonstration](https://youtube.com/shorts/9fwiOw4L_4w?feature=share) 
 
